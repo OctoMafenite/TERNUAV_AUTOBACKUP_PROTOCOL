@@ -7,7 +7,7 @@ This script facilitates the automated transfer and verification of UAV data
 collected for the DroneScape program at TERN Australia plots.
 
 Author: TERN DroneScape Team
-Version: 2.0.0
+Version: 3.0.0
 Last Modified: 2025
 Python Version: 3.7+
 
